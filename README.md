@@ -1,2 +1,2 @@
-# Ponpes-SMS-Gateway-V1
+# Ponpes SMS Gateway
 Aplikasi sms gateway untuk kirim sms kebanyak orang
